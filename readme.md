@@ -2,6 +2,8 @@
 This script logins to the Google account using your credentials info from configs.py and send the mail.  
 
 # Demo 
+https://user-images.githubusercontent.com/52074687/163561818-7ba73047-4734-4c17-8ceb-873d2d403544.mp4
+
 
 
 ## Installation required
@@ -11,7 +13,7 @@ pip3 install -r requirements.txt
 ```
 - We also have to run
 ```bash
-playwright installverificatio
+playwright install
 ```
 to install browser bundle and everything for playwright. More [detail](https://playwright.dev/python/docs/intro)
 
